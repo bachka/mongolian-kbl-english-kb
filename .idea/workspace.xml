@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86348302-eb64-4216-9528-78350996be17" name="Default" comment="" />
+    <list default="true" id="86348302-eb64-4216-9528-78350996be17" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="476">
-                <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+              <first_editor relative-caret-position="108">
+                <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="38" />
               </first_editor>
               <second_editor />
             </state>
@@ -35,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-15" />
     <option name="y" value="85" />
     <option name="width" value="3873" />
@@ -139,7 +142,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="34" width="1549" height="837" extended-state="7" />
+    <frame x="-6" y="34" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -177,8 +181,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="476">
-            <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+          <first_editor relative-caret-position="108">
+            <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="38" />
           </first_editor>
           <second_editor />
         </state>

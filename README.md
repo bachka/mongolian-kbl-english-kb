@@ -14,6 +14,7 @@
 
 ### How to install
 - - -
+![Normal Look](images/) 1. Normal Look <br>
 
 ### How to use
 - - -
@@ -28,6 +29,7 @@
 
 ![With Schift + Alt Gr](images/Layout01ShftAltGr.jpg) 4. With Schift + Alt Gr <br>
 
+![With Schift + Alt Gr](images/MongolisCaps.jpg) 5. With Caps Lock <br>
 
 - - -
 
