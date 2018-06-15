@@ -1,4 +1,0 @@
-# ignore exe and msi
-*.exe
-*.msi
-.idea
