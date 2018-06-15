@@ -31,7 +31,7 @@ Languages:
 
 ![Normal Look](images/de-02-to-install-click-run-anyway.jpg) 2. Now we become a button "Run anyway" then click on that ... <br>
 
-![Normal Look](images/de-03-Install-complete.jpg) 3. After you accepted with administrator permission the installer shows that it successful installed message ... <br>
+![Normal Look](images/de-04-install-complete.jpg) 3. After you accepted with administrator permission the installer shows that it successful installed message ... <br>
 + Maybe it is better if you reboot your computer or notebook. That would help windows to check that there what new installed and show in system status bar. Like on the picture below.
 
 ![Normal Look](images/de-11-check-after-reboot.jpg) 4. Reboot and check that it worked!
@@ -63,7 +63,7 @@ Languages:
 + To remove the installation use the installer again. Just start setup.exe again and then you will see a windows on picture below
 ![Normal Look](images/de-07-Remove-or-repair.jpg) 1. To remove or repair the installation <br>
 
-![Normal Look](images/de-10-install-complete.jpg) 2. Removed successful <br>
+![Normal Look](images/de-10-remove-complete.jpg) 2. Removed successful <br>
 
 ![Normal Look](images/de-09-Interrupt-installation.jpg) 3. Or you can just cancel it <br>
 - - -
