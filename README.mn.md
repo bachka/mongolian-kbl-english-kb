@@ -4,8 +4,8 @@
 >_Хэрвээ янзан бүрийн асуудал буюу сайжруулах талаар санаа оноо байвал хувийн мессажаар харицана уу!_
 - - -
 Гадаад хэл дээр унших:
-+ ![In English](README.md)
-+ ![Auf deutsch lesen](README.de.md)
++ [Read in English](README.md)
++ [Auf deutsch lesen](README.de.md)
 
 #### Агуулгын жагсаалт
 
@@ -30,7 +30,7 @@
 
 ![Normal Look](images/de-02-to-install-click-run-anyway.jpg) 2. Дараагийн цонх дээр "Run anyway" гэсэн товч дээр дар ... <br>
 
-![Normal Look](images/de-04-install-complete.jpg) 3. Суулгацыг амжилттай ажиллуулахад тусгай эрхтэй ашиглагч шаардагдана. Тэр зөвшөөрлийг олгосоны дараа суулгац амжилттай болсон гэсэн мэдээлэл цонх дээр гарна ... <br>
+![Normal Look](images/de-04-nstall-complete.jpg) 3. Суулгацыг амжилттай ажиллуулахад тусгай эрхтэй ашиглагч шаардагдана. Тэр зөвшөөрлийг олгосоны дараа суулгац амжилттай болсон гэсэн мэдээлэл цонх дээр гарна ... <br>
 + Системийг шинээр унтрааж асаасан нь дээр бөгөөд энэ нөхцөлд Виндовс шинээр хэлний нэмэгдэл суусаныг мэдрэх болно.
 
 ![Normal Look](images/de-11-check-after-reboot.jpg) 4. Унтрааж ахин асаасаныхаа дараа системийн мэдээлэлийн хэсэгт монгол хэлний товчлол харагдаж байгаа эсэхийг шалгаарай!
@@ -77,4 +77,4 @@
 + the first version made about 18 years ago. i used at these time an russian language dll changer
 + i found original mongolian layout of microsoft very poor. it is just nothing with linguistic or language to do
 - - -
-Бачка ❤-аараа бүтээв.
+Бачка ❤-ээрээ бүтээв.
